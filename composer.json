@@ -1,5 +1,5 @@
 {
-    "name": "codeception/assert-throws",
+    "name": "skysilk/assert-throws",
     "description": "Assert exception was thrown without stopping a test",
     "type": "library",
     "require": {
